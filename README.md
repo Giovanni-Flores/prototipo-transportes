@@ -59,7 +59,7 @@ Para detalhes da estrutura e dos tamanhos dos arquivos, consulte [a documentaç�
 
 ## Protótipo Navegável
 
-[página navegável deste projeto](https://giovanni-flores.github.io/prototipo-transporte/)
+[página navegável deste projeto](http://giovanni-flores.github.io.prototipo-transportes/)
 
 ## Autor
 
