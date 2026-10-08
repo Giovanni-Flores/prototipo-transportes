@@ -57,6 +57,10 @@ As imagens usam WebP, variantes de 768 pixels para telas menores e dimensões ex
 
 Para detalhes da estrutura e dos tamanhos dos arquivos, consulte [a documentação](docs/estrutura.md).
 
+## Protótipo Navegável
+
+[página navegável deste projeto](https://giovanni-flores.github.io/prototipo-transporte/)
+
 ## Autor
 
 [Giovanni Flores](https://github.com/Giovanni-Flores) · [Portfólio](https://giovanniflores.com.br/)
