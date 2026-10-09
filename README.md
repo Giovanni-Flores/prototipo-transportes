@@ -57,6 +57,10 @@ As imagens usam WebP, variantes de 768 pixels para telas menores e dimensões ex
 
 Para detalhes da estrutura e dos tamanhos dos arquivos, consulte [a documentação](docs/estrutura.md).
 
+## Demonstração da Tela Principal
+
+<img width="1861" height="965" alt="DemonstracaoTransporte" src="https://github.com/user-attachments/assets/60f746ed-1025-456b-8ef1-3c274cebc74c" />
+
 ## Protótipo Navegável
 
 [página navegável deste projeto](https://giovanni-flores.github.io/prototipo-transportes/)
